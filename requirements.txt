@@ -1,4 +1,3 @@
-transformers==4.30.2
 transformers==4.33.2
 protobuf
 cpm_kernels
@@ -13,7 +12,7 @@ torchsummary
 openai==0.28
 deepspeed
 ujson
-gradio== 3.39.0 #3.40
+gradio== 3.39.0
 typing-extensions
 pydantic==1.10.7
 datasketch
